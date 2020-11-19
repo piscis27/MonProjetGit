@@ -8,7 +8,22 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="alert alert-info display-4 text-center my-5 shadow-lg">Test !!</h1> 
+        <h1 class="alert alert-info display-4 text-center my-5 shadow-lg">Test !!</h1>
+
+         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="img/image1.webp" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="img/image2.webp" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="img/image3.webp" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+
     </div>
 </body>
 </html>
